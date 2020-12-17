@@ -1,2 +1,3 @@
-# Adaptive-Energy-Management-HEMS
+# Adaptive Energy Management HEMS
 IoT  Enabled Adaptive Energy Management in HEMS
+
